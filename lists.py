@@ -16,3 +16,7 @@ print(list1)
 # Deleting list elements\
 del list1[2]
 print(list1)
+
+# Inserting elements in the last of list
+list1.insert(len(list1)+1, 'Arya')
+print(list1)
