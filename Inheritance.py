@@ -48,6 +48,3 @@ if __name__ == "__main__":
     counter.count()
     counter.count()
     print (counter.__secretCount)
-
-
-
